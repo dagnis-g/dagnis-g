@@ -9,7 +9,7 @@ I'm an aspiring and highly motivated software developer who's always learning an
 
 <h1>Projects</h1>
 - E-Commerce SPA React.js <a href="https://www.kokalaboratorija.lv">Kokalaboratorija.lv</a><br />
-- HTTP Request Java App <a href="https://github.com/dagnis-g/flight-planner">Flight Planner</a><br />
+- REST Api Java App <a href="https://github.com/dagnis-g/flight-planner">Flight Planner</a><br />
 - Java OOP <a href="https://github.com/dagnis-g/codelex-exercises">Codelex</a>
 
 <br></br>
